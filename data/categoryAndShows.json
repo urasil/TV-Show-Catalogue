@@ -1,0 +1,81 @@
+[
+  {
+    "items": [
+      {
+        "showName": "John Wick",
+        "description": "Do not mess with a men\u0027s dog",
+        "url": "netflix.com",
+        "path": "data/jw.jpg",
+        "similarCategory": "Adventure"
+      }
+    ],
+    "listName": "Action"
+  },
+  {
+    "items": [
+      {
+        "showName": "Batman",
+        "description": "Bat guy fights bad people",
+        "url": "prime.com",
+        "path": "data/batman.jpg",
+        "similarCategory": "Action"
+      },
+      {
+        "showName": "Thor",
+        "description": "Cool god fights people below him",
+        "url": "thorragnarok.com",
+        "path": "data/thor.png",
+        "similarCategory": "Comedy"
+      }
+    ],
+    "listName": "Adventure"
+  },
+  {
+    "items": [
+      {
+        "showName": "Bo Burnham - Make Happy",
+        "description": "Bo makes funny jokes",
+        "url": "netflix.com/gb/title/80106124",
+        "path": "data/makeHappy.jpg",
+        "similarCategory": ""
+      }
+    ],
+    "listName": "Comedy"
+  },
+  {
+    "items": [
+      {
+        "showName": "Interstellar",
+        "description": "Incredible",
+        "url": "prime.com",
+        "path": "data/interstellar.jpg",
+        "similarCategory": "Adventure"
+      }
+    ],
+    "listName": "Science Fiction"
+  },
+  {
+    "items": [
+      {
+        "showName": "Screm",
+        "description": "Scary scary",
+        "url": "netflix.com",
+        "path": "data/scream.jpg",
+        "similarCategory": "Action"
+      }
+    ],
+    "listName": "Horror"
+  },
+  {
+    "items": [
+      {
+        "showName": "Federer\u0027s Legacy",
+        "description": "I made this one up",
+        "url": "netflix.com",
+        "path": "data/tennis.png",
+        "similarCategory": "Adventure"
+      }
+    ],
+    "listName": "Tennis"
+  }
+]
